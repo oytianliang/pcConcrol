@@ -1,0 +1,7 @@
+controlled.bat       启动被控端，不显示控制台，用任务管理器关闭
+controlled_cmd.bat   启动被控端，显示控制台
+JPcAnyWhereControlled.java
+
+main.bat         启动主控端,不显示控制台
+main_cmd.bat     启动主控端,显示控制台
+JPcAnyWhere.java
